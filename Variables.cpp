@@ -10,4 +10,10 @@ int main() {
     cout<<y;
     cout<<endl;
     cout<<x+y;
+
+    cout<<endl;
+    int a, b;
+    a = 9;
+    b = 1;
+    cout<< a+b;
 }
